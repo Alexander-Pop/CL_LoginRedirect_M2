@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * GLORY TO UKRAINE! GLORY TO HEROES!
+ * @category    CL
+ * @package     CL_LoginRedirect
+ * @copyright   Copyright (c) 2019-2021 Codelegacy Co., Ltd. All rights reserved. (http://www.codelegacy.com/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="CL_LoginRedirect" setup_version="1.0.0" />
+</config>
